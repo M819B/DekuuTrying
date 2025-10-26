@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Welcome to Dekuu",
+    "date": "2025-10-26",
+    "category": "General",
+    "excerpt": "Dekuu is a uniquely styled, animated static site, ready for GitHub Pages + Cloudflare."
+  },
+  {
+    "title": "Login & Profile (demo)",
+    "date": "2025-10-26",
+    "category": "Docs",
+    "excerpt": "Sign up, then visit Profile to see your info. Auth stays in your browser only.",
+    "link": "profile.html"
+  },
+  {
+    "title": "Contact options",
+    "date": "2025-10-26",
+    "category": "Docs",
+    "excerpt": "The contact form opens your email client to send a message directly to us."
+  }
+]
